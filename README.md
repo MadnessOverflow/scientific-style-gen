@@ -1,4 +1,4 @@
-# Master's Thesis Codebase
+# Improving Few-Shot Capabilities of LLMs for Style-Conditioned Text Generation - Codebase
 
 This is the code repository for the masterthesis [Improving Few-Shot Capabilities of LLMs for Style-Conditioned Text Generation](TODO_LINK_TO_MA). It contains the codebase for generating, steering, and evaluating synthetic abstracts. 
 
